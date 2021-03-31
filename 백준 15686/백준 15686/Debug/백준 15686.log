@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\alsgh\source\repos\백준 15686\백준 15686\소스.cpp(25,23): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\alsgh\source\repos\백준 15686\백준 15686\소스.cpp(45,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+  백준 15686.vcxproj -> C:\Users\alsgh\source\repos\백준 15686\Debug\백준 15686.exe
